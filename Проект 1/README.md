@@ -1,2 +1,2 @@
-# my-projects
+# Определение перспективного тарифа для телеком-компании
 my projects Yandex Practicum
